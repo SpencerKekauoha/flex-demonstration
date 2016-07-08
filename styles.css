@@ -1,0 +1,15 @@
+
+.parent {
+  background-color: salmon;
+  height: 95vh;
+  border: 10px blue solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.child {
+  height: 20vh;
+  width: 20vw;
+  background-color: white;
+}
